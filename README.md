@@ -49,10 +49,15 @@
    ```bash
     API_KEY=""
     ```
-2. **Add your Genai Api keys in backend/.env**:
+3. **Add your Genai Api keys in backend/.env**:
    ```bash
     JWT_SECRET_KEY=""
     MONGODB_CONNECTION_STRING=""
     GITLAB_TOKEN=""
     GITLAB_API_BASE_URL = ""
+    ```
+4. **Install dependencies**:
+    ```bash
+    npm i //in both frontend and backend
+    pip install -r requirements.txt //in flask_docs_generator
     ```
