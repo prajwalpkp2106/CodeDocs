@@ -35,7 +35,7 @@
 ### Setup to the project
 
 1. **Add your Firebase server keys in frontend/.env**:
-   `bash
+   ```bash
     CORS_ORIGIN=*
     VITE_FIREBASE_API_KEY=
     VITE_FIREBASE_AUTH_DOMAIN=
@@ -44,4 +44,4 @@
     VITE_FIREBASE_MESSAGING_SENDER_ID=
     VITE_FIREBASE_APP_ID=
     VITE_FIREBASE_MEASUREMENT_ID=
-    `
+    ```
