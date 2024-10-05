@@ -1,5 +1,5 @@
 # Pulazion-Web-and-App-CodeScriptors
-
+Introducing an AI-powered solution that transforms the way you document code! No more tedious manual documentation — our tool automatically generates clear, concise explanations from your code snippets. Boost your productivity by instantly writing, running, and testing code with seamless IDE integration, and collaborate with your team in real-time using Collaborative Coding for effortless teamwork!
 ### Setup to the project
 
 1. **Add your Firebase server keys in frontend/.env**:
