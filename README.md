@@ -45,3 +45,14 @@
     VITE_FIREBASE_APP_ID=
     VITE_FIREBASE_MEASUREMENT_ID=
     ```
+2. **Add your Genai Api keys in flask_docs_generator/.env**:
+   ```bash
+    API_KEY=""
+    ```
+2. **Add your Genai Api keys in backend/.env**:
+   ```bash
+    JWT_SECRET_KEY=""
+    MONGODB_CONNECTION_STRING=""
+    GITLAB_TOKEN=""
+    GITLAB_API_BASE_URL = ""
+    ```
