@@ -61,3 +61,9 @@
     npm i //in both frontend and backend
     pip install -r requirements.txt //in flask_docs_generator
     ```
+5. **Run the application(Open Integrated Terminal in all folder)**:
+    ```bash
+    npm run dev //in frontend
+    npm start //in backend
+    python app.py //in flask_docs_generator
+    ```
